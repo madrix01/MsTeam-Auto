@@ -18,7 +18,7 @@ We attend meetings for you
 
 Configure your teams.json carefully
     
-    """)
+""")
 
 @client.event
 async def on_ready():
