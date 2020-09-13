@@ -2,7 +2,8 @@
 ### Attends meetings for you just ping on discord
 
 ## How to install ⬇
-1.First of all clone the repository by git clone https://github.com/madrix01/MsTeam-Auto.git.
+
+1. First of all clone the repository by git clone https://github.com/madrix01/MsTeam-Auto.git.
 2. Install python libraries just type ```pip install -r requirements.txt``` in your command shell, update your chrome browser and intall chrome drivers
 3. Create file teams.json in the main directory
       - Add team id from the team link 
