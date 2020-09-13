@@ -1,4 +1,4 @@
-# MsTeam-Auto
+# MsTeam-AutoAttend
 ### Attends meetings for you just ping on discord
 
 ## How to install ⬇
