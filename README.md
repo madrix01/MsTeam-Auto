@@ -22,3 +22,6 @@
 - [ ] Set remiders for meeting 
 - [ ] More interactive bot 
 - [ ] Adding google meet functionality
+
+## Here's a quick demo 
+![](Demo.gif)
