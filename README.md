@@ -32,5 +32,4 @@
 
 ## Made By
 U19EC055 Shlok Patel
-U19EC002 Harshit Chauhan
 
